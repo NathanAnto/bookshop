@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.39, created on 2022-02-09 09:06:23
+/* Smarty version 3.1.39, created on 2022-02-09 11:19:42
   from 'C:\xampp\htdocs\bookshop\dev\admin341m0hjuh\themes\default\template\helpers\modules_list\modal.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_620375ff2ea3b2_20866749',
+  'unifunc' => 'content_6203953e9e5f75_47232097',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_620375ff2ea3b2_20866749 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6203953e9e5f75_47232097 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="modal fade" id="modules_list_container">
 	<div class="modal-dialog">
 		<div class="modal-content">

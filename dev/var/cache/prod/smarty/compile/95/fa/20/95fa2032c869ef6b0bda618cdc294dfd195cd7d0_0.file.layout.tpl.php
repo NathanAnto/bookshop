@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.39, created on 2022-02-09 09:06:41
+/* Smarty version 3.1.39, created on 2022-02-09 11:19:43
   from 'C:\xampp\htdocs\bookshop\dev\admin341m0hjuh\themes\default\template\layout.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_620376112e2c35_56662058',
+  'unifunc' => 'content_6203953f65afd2_41164170',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_620376112e2c35_56662058 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6203953f65afd2_41164170 (Smarty_Internal_Template $_smarty_tpl) {
 echo $_smarty_tpl->tpl_vars['header']->value;?>
 
 <?php if ((isset($_smarty_tpl->tpl_vars['conf']->value))) {?>

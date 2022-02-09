@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.39, created on 2022-02-09 09:06:37
+/* Smarty version 3.1.39, created on 2022-02-09 11:19:40
   from 'C:\xampp\htdocs\bookshop\dev\modules\ps_faviconnotificationbo\views\templates\hook\displayBackOfficeHeader.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_6203760d5a9a24_00261785',
+  'unifunc' => 'content_6203953c6a3308_58698064',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6203760d5a9a24_00261785 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6203953c6a3308_58698064 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
 >
   if (undefined !== ps_faviconnotificationbo) {
